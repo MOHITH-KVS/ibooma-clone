@@ -1,0 +1,107 @@
+.movies img{
+    margin-top: 40px;
+    margin-left: 15px;
+    border-radius: 5px;
+  }
+  h1{
+    color: white;
+    font-size: 50px;
+    margin-top: 60px;
+    margin-left: 30px;
+  }
+  .movies h4{
+    margin-top: 135px;
+    margin-left: -165px;
+  }
+  #zonar{
+    padding-top: 25px;
+    margin-left: -37px;
+  }
+  .icon{
+    display: flex;
+    margin-top: 50px;
+  }
+  .icon h4{
+    margin-left: 10px;
+    margin-top: 200px;
+  }
+  .icon img{
+    margin-top: 200px;
+    margin-left: -122px;
+  }
+  .director{
+    margin-left: 340px;
+    margin-top: -140px;
+  }
+  .director h4{
+    margin-left: 30px;
+    margin-top: -24px;
+  }
+  .icon span{
+    color:#535252;
+    font-size: small;
+    padding-left:10px;
+  }
+  .director span{
+    color: #535252;
+    font-size: small;
+    padding-left:10px;
+  }
+  .buttons{
+    margin-left: 345px;
+    margin-top: 80px;
+  }
+  .click{
+    text-decoration: none;
+    color: white;
+  }
+  .but1{
+    border: 2px solid #232527;
+    background-color: #232527;
+    padding: 15px 40px 15px 40px;
+    border-radius: 5px;
+  }
+  .but2{
+    border: 1px solid black;
+    background-color: rgb(56, 201, 56);
+    padding: 15px 40px 15px 40px;
+    margin-left: 25px;
+    border-radius: 5px;
+  }
+  .video{
+      padding: 100px;
+      margin-left: 150px;
+      margin-top: -80px;
+      border: 2px solid
+  }
+  .synop{
+    height: 80px;
+    margin-top: -80px;
+  }
+  .synop span{
+    color:rgb(56, 201, 56);
+    margin-left: -70px;
+    margin-top: 50px;
+  }
+  .synop p{
+    color: white;
+  }
+  .atlast h6{
+    color: white;
+  }
+  .atlast{
+   display: flex;
+   justify-content: space-between;
+  }
+  .left h6{
+   margin-left: 90px;
+  }
+  .right h6{
+   margin-right: 90px;
+  }
+  .last{
+   background: #151617;
+   padding-top: 30px;
+   padding-bottom: 30px;
+   margin-top: 50px;
+  }
